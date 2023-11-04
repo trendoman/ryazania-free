@@ -4,3 +4,7 @@
 Русское описание: [ЧИТАЙ](/ЧИТАЙ.md)
 
 English: [README-EN](/README-EN.md)
+
+Файлы темы:
+
+![files](img/file-list.png)
